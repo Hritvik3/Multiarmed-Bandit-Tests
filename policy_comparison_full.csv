@@ -1,0 +1,5 @@
+policy,biased_cum,biased_avg,replay_cum,replay_avg,ips_cum,ips_avg,synthetic_cum,synthetic_avg
+Logged,38.0,0.0038,38.0,0.0038,3040.0,0.304,29.0,0.0029
+Random,1.0,0.0001,0.0,0.0,0.0,0.0,34.0,0.0034
+EpsGreedy(0.5),2.0,0.0002,1.0,0.0001,0.0,0.0,149.0,0.0149
+UCB1,0.0,0.0,0.0,0.0,0.0,0.0,46.0,0.0046
